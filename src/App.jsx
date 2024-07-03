@@ -7,6 +7,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <p>プログラミング最高！</p>
       <p>Go to GitHub</p>
+      <h3>以後繰り返し</h3>
     </div>
   );
 }
